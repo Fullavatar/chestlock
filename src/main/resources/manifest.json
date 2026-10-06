@@ -1,0 +1,18 @@
+{
+  "Group": "com.github.fullavatar",
+  "Name": "ChestLock",
+  "Version": "1.0.0",
+  "Description": "ChestLock Hytale mod.",
+  "Authors": [
+    {
+      "Name": "Fullavatar"
+    }
+  ],
+  "Main": "com.github.fullavatar.chestlock.ChestLockPlugin",
+  "ServerVersion": "*",
+  "Dependencies": {},
+  "OptionalDependencies": {},
+  "DisabledByDefault": false,
+  "IncludesAssetPack": false,
+  "SubPlugins": []
+}
